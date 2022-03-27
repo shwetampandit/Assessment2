@@ -1,0 +1,40 @@
+{
+  "customers": [
+    {
+      "id": 1,
+      "company_name": "Infosys",
+      "contact_firstname": "Sampada",
+      "contact_lastname": "Tiwade",
+      "contact_email": "sampadatiwade@gmail.com",
+      "acquired_on": "2021-04-18",
+      "customer_status": "active"
+    },
+    {
+      "id": 2,
+      "company_name": "C3IT",
+      "contact_firstname": "Snenal",
+      "contact_lastname": "Ghavate",
+      "contact_email": "ghavates@gmail.com",
+      "acquired_on": "2019-01-10",
+      "customer_status": "active"
+    },
+    {
+      "id": 3,
+      "company_name": "Infosys",
+      "contact_firstname": "Amey",
+      "contact_lastname": "Karn",
+      "contact_email": "akarn@gmail.com",
+      "acquired_on": "2019-04-01",
+      "customer_status": "inactive"
+    },
+    {
+      "id": 5,
+      "company_name": "MLCL",
+      "contact_firstname": "Arun",
+      "contact_lastname": "Vishwas",
+      "contact_email": "vishwasarun02@gmail.com",
+      "acquired_on": "2022-03-08",
+      "customer_status": "active"
+    }
+  ]
+}
